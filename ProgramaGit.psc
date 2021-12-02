@@ -21,6 +21,7 @@ Proceso ProgramaGIT
 		Escribir "ALUMNO N? ",i+1,nombre[i];
 	FinPara
 	
+	//Ahora el programa puede ejecutarse con el número de alumnos definido por el usuario
 	
 	
 	

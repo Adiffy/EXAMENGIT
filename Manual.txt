@@ -12,4 +12,5 @@ LISTA DE VERSIONES
 ------------------
 1.0 - El programa permite procesar hasta 10 alumnos
 1.1 - Ahora se ha hecho commit
+2.0 - Programa comentado (mejor para las futuras actualizaciones)
 3.0 - El programa ahora elige cuántos alumnos hay
